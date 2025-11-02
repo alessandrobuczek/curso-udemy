@@ -1,7 +1,5 @@
 Novo arquivo de testes para treinar Git
 Novo arquivo de testes para treinar Git V2
-Novo arquivo de testes para treinar Git V3
-Novo arquivo de testes para treinar Git V4
 Novo arquivo de testes para treinar Git V5
 Novo arquivo de testes para treinar Git V6
 Git V7
