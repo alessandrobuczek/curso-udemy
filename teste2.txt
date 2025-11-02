@@ -1,1 +1,2 @@
 Novo arquivo de testes para treinar Git
+Novo arquivo de testes para treinar Git V2
