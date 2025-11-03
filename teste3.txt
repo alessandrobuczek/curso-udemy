@@ -2,3 +2,4 @@ Bom dia teste 3
 Novo arquivo adicionado.
 Estou conseguindo aprender bem sobre git e github, estou ficando bem feliz com a evolução.
 Fim
+Texto corrigo agora
