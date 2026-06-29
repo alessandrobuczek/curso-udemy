@@ -2,3 +2,4 @@ Novo arquivo de testes
 Preciso treinar a criação de PR
 Fazer o cod review
 E merge da aplicação.
+Teste foram efetuados com sucesso.
